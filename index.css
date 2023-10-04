@@ -1,0 +1,36 @@
+*{
+    margin: 0; 
+    padding: 0;
+    box-sizing:border-box;
+}
+.navbar{
+font-size: 25px
+padding 5px
+color gray
+}
+.logo{
+    display: flex;
+    justify-content: sp;
+    width: 70%
+    
+}
+.secim{
+    display: flex;
+    justify-content: space-between
+}
+.sbten{
+    display: flex;
+    justify-content: space-between;
+}
+
+.abc{
+    display: flex;
+    justify-content: space-between;
+    width: 15px;
+    height: 15px;
+}
+.urun{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
